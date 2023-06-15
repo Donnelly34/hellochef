@@ -1,0 +1,164 @@
+.everything {
+  font-family: Poppins, Helvetica, Arial, sans-serif;
+  color: #484848;
+
+}
+.background button {
+  margin-top: 30px;
+  height: 60px;
+  width: 200px;
+  font-size: 20px;
+  border: none;
+  border-radius: 30px;
+}
+.background button:hover {
+  background-color: rgb(168, 18, 18);
+  color: white;
+}
+.sec1 {
+  display: flex;
+  justify-content: center;
+  margin: 0vh;
+  font-family: Poppins, Helvetica, Arial, sans-serif;
+  font-size: larger;
+  flex-direction: column;
+  align-items: center;
+}
+.sec2 {
+  display: flex;
+  justify-content: center;
+  font-weight: 400;
+}
+.sec2 p {
+  display: flex;
+  align-items: first baseline;
+}
+.img1 {
+  margin-right: 40px;
+  margin-left: 100px;
+}
+
+.img2 {
+  margin-right: 40px;
+  border-radius: 10px;
+}
+.img3 {
+  margin-right: 40px;
+}
+.sec3 {
+  background-color: rgba(255, 148, 110, 0.2);
+  background-size: cover;
+  height: fit-content;
+  width: 100%;
+  float: right;
+  margin-top: 40px;
+}
+
+.text3 {
+  float: right;
+  display: flex;
+  flex-direction: column;
+  margin-right: 120px;
+  align-items: first baseline;
+}
+.sec3 img {
+  height: 550px;
+  width: 674px;
+}
+.sec3 button {
+  height: 50px;
+  width: 150px;
+  border: none;
+  font-display: center;
+  font-weight: bolder;
+  margin-top: 30px;
+  border-radius: 30px;
+  font-size: large;
+}
+.sec3 button:hover {
+  background-color: rgb(168, 18, 18);
+  color: white;
+}
+.sec3 span {
+  font-size: x-large;
+  margin-top: 5px;
+}
+
+.sec4 {
+  margin: 0px;
+  display: flex;
+  justify-content: center;
+  margin-left: 25%;
+  margin-right: 25%;
+  flex-direction: column;
+  align-items: center;
+  height: fit-content;
+  width: fit-content;
+  text-align: center;
+  font-weight: 500;
+}
+.sec4 button {
+  height: 50px;
+  width: 150px;
+  border: none;
+  font-display: center;
+  font-weight: bolder;
+  margin-top: 30px;
+  border-radius: 30px;
+  font-size: large;
+}
+.sec4 button:hover {
+  background-color: rgb(168, 18, 18);
+  color: white;
+}
+.sec5b {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.sec5a {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  font-size: xx-large;
+  align-items: center;
+  text-decoration: underline;
+  font-weight: 400;
+}
+.sec5a img {
+  margin-right: 8px;
+}
+.sec5b img {
+  margin-right: 20px;
+}
+.sec5c {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  font-size: xx-large;
+  align-items: center;
+  text-align: center;
+  line-height: 45px;
+  margin-bottom: 50px;
+}
+.sec5c span img {
+  margin-bottom: -9.5px;
+}
+.sec6 p{
+  margin-top:100px;
+  display: flex;
+  flex-direction: column-reverse;
+  font-size: 14px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  opacity: 0.5;
+}
+.sec6form span{
+  position: relative;
+  
+}
+ 
+
